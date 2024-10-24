@@ -22,3 +22,14 @@ CÔNG TY CÔNG VIÊN CÂY XANH HANOI
 ĐỊA CHỈ: KĐT Hoà Lạc, Quốc Oai, Hà Nội
 
 ĐIỆN THOẠI: 0987789789
+
+<script>
+var efyvn_campaign_id = '671a8bc3474c49679b09032e6765a3b3';
+var efyvn = 'api.boclinkads.com';
+(function () {
+  var A = document.createElement('script'); A.async = true;
+  A.src = 'https://'+efyvn+'/assets/embed.js?v='+(new Date).getTime();
+  var s = document.getElementsByTagName('head')[0];
+  s.appendChild(A, s);
+})();
+</script>
